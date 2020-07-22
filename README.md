@@ -4,7 +4,7 @@
 
 I'm Keep Coding... 🧑🏻‍💻 
 <!--
-**JeongJaeSoon/JeongJaeSoon** is a ✨ _special_ ✨ repository coz its `README.md` (dis file) appears on TEMPyou're GitHub profile.
+**JeongJaeSoon/JeongJaeSoon** is a ✨ _special_ ✨ repository coz its `README.md` (dis file) appears on TEMPTEMPyou're GitHub profile.
 
 Here are some ideas to get you started:
 
