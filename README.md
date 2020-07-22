@@ -2,7 +2,7 @@
 
 ### Hi their 👋
 
-"I am Keep Coding..." 🧑🏻‍💻 
+Just Keep Coding... 🧑🏻‍💻 
 <!--
 **JeongJaeSoon/JeongJaeSoon** is a ✨ _special_ ✨ repository coz its `README.md` (dis file) appears on TEMPTEMPTEMPyou're GitHub profile.
 
