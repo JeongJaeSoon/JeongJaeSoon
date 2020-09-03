@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - [SYDER](https://github.com/JeongJaeSoon/SYDER)
 - [Your Safe Space](https://github.com/JeongJaeSoon/COVID19_YSS)
 - [e-global-zone](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJaeSoon)
+![](https://github-readme-stats.vercel.app/api?username=JeongJaeSoon&count_private=true&show_icons=true)
