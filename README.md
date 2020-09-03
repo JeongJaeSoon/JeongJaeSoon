@@ -1,4 +1,4 @@
-# JeopngJaeSoon
+# Jeong Jae Soon
 
 ```
 Their may be distressing events but no such thing as failure
