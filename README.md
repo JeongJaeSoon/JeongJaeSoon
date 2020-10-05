@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - [e-global-zone](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
 
 ### My State 💪🏻 ###
-![](https://github-readme-stats.vercel.app/api?username=JeongJaeSoon&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=JeongJaeSoon&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJaeSoon&layout=compact&count_private=true&langs_count=30)
