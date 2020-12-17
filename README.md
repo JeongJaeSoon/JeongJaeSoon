@@ -25,10 +25,6 @@ Here are some ideas to get you started:
 ### My Univ Team Project 🎓
 
 - [Gochi_2019](https://github.com/JeongJaeSoon/Gochi_2019)
-<!--
-  - 개발언어
-  - 개발기간
--->
 - [kiminohanawa](https://github.com/JeongJaeSoon/kiminohanawa)
 - [SYDER](https://github.com/JeongJaeSoon/SYDER)
 - [Your Safe Space](https://github.com/JeongJaeSoon/COVID19_YSS)
