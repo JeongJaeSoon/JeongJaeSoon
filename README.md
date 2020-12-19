@@ -9,7 +9,7 @@ Their may be distressing events but no such thing as failure
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
-<!--<p align="center">🇰🇷 🇦🇺 🇸🇬</p>-->
+<p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 My Tech Stack 🛠</h3>
 
@@ -63,7 +63,6 @@ Their may be distressing events but no such thing as failure
         </td>
     </tr>
 </table>
-<br><br>
 
 <h3 align="center"> 🎓 My Univ Team Project 🎓 </h3>
 
