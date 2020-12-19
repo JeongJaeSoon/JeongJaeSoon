@@ -1,28 +1,71 @@
-# Jeong Jae Soon
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JeongJaeSoon&fontSize=70&animation=twinkling)\
 ```
 Their may be distressing events but no such thing as failure
 ```
+<p align="center">
+  <a href="https://velog.io/@dev_jaesoon"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dev_jaesoon"/></a>&nbsp
+  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>  
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
-### Hi their 👋
+<!--<p align="center">🇰🇷 🇦🇺 🇸🇬</p>-->
 
-Just Keep Coding... 🧑🏻‍💻 
-<!--
-**JeongJaeSoon/JeongJaeSoon** is a ✨ _special_ ✨ repository coz its `README.md` (dis file) appears on TEMPTEMPTEMPyou're GitHub profile.
+<h3 align="center">🛠 My Tech Stack 🛠</h3>
 
-Here are some ideas to get you started:
+<p align="center"> Techs that I've used at least once </p>
 
-- 🔭 me’m currently working on ...
-- 🌱 me’m currently learning ...
-- 👯 me’m looking to collaborate on ...
-- 🤔 me’m looking for halp wif ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table aligun="center">
+    <tr>
+        <th align="center">
+          Front-End
+        </th>
+        <th align="center">
+          Back-End
+        </th>
+        <th align="center">
+          Programming<br>language
+        </th>
+        <th align="center">
+          Applications<br>& Utils
+        </th>
+    </tr>
+    <tr>      
+        <!--Front End-->
+        <td align="center">  
+          <img src="https://img.shields.io/badge/HTML5-E72C22?style=flat-quare&logo=HTML5&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Javascript-F0D91D?style=flat-quare&logo=javascript&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-quare&logo=css3&logoColor=white"/></a><br>     
+          <img src="https://img.shields.io/badge/jQuery-2965A7?style=flat-quare&logo=jQuery&logoColor=white"/></a><br>    
+          <img src="https://img.shields.io/badge/React-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a><br>    
+          <img src="https://img.shields.io/badge/Vue.js-48B883?style=flat-quare&logo=vue.js&logoColor=white"/></a><br>    
+          <img src="https://img.shields.io/badge/Node.js-57A546?style=flat-quare&logo=node.js&logoColor=white"/></a><br>    
+        </td>        
+        <!--Back End-->
+        <td align="center">
+          <img src="https://img.shields.io/badge/php-5C7EB5?style=flat-quare&logo=php&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/laravel-E9392C?style=flat-quare&logo=laravel&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-quare&logo=MySql&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Mongo DB-12AA52?style=flat-quare&logo=MONGODB&logoColor=white"/></a><br>
+        </td>        
+        <!--Programming language-->
+        <td align="center">
+          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-quare&logo=Python&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Java-D23C35?style=flat-quare&logo=Java&logoColor=white"/></a><br>   
+        </td>
+        <!--Applications & Utils-->
+        <td align="center">
+          <img src="https://img.shields.io/badge/AWS-333664?style=flat-quare&logo=amazon-aws&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Docker-2C96ED?style=flat-quare&logo=docker&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Nginx-229639?style=flat-quare&logo=NGINX&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Apache-C71D42?style=flat-quare&logo=APACHE&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Github-000000?style=flat-quare&logo=GITHUB&logoColor=white"/></a><br> 
+        </td>
+    </tr>
+</table>
+<br><br>
 
-### My Univ Team Project 🎓
+<h3 align="center"> 🎓 My Univ Team Project 🎓 </h3>
 
 - [Gochi_2019](https://github.com/JeongJaeSoon/Gochi_2019)
 - [kiminohanawa](https://github.com/JeongJaeSoon/kiminohanawa)
@@ -30,10 +73,11 @@ Here are some ideas to get you started:
 - [Your Safe Space](https://github.com/JeongJaeSoon/COVID19_YSS)
 - [e-global-zone](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
 - my-riding
-  - [React](https://github.com/2020-yju-cominfo-5/my-riding-web)
-  - [Express.js & mongoDB](https://github.com/JeongJaeSoon/my-riding-data) 
+  - [React.js(web)](https://github.com/2020-yju-cominfo-5/my-riding-web)
+  - [Node.js & Mongo DB(server)](https://github.com/JeongJaeSoon/my-riding-data) 
 - [my-youtube-music](https://github.com/JeongJaeSoon/my-youtube-music)
 
-### My State 💪🏻 ###
+<h3 align="center">💪🏻  My State 💪🏻</h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=JeongJaeSoon&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJaeSoon&layout=compact&count_private=true&langs_count=30)
