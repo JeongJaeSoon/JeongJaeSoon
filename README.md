@@ -3,7 +3,7 @@
 
 <p align="center">
 <!--   <a href="https://velog.io/@dev_jaesoon"><img src="https://img.shields.io/badge/94soon_dev.log-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dev_jaesoon"/></a>&nbsp -->
-  <a href="mailto:wjdwotns1006@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjdwotns1006@gmail.com"/></a>  
+  <a href="mailto:94jaesoon.jeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=94jaesoon.jeong@gmail.com"/></a>  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
