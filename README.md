@@ -44,7 +44,6 @@
           <img src="https://img.shields.io/badge/jQuery-2965A7?style=flat-quare&logo=jQuery&logoColor=white"/></a><br>    
           <img src="https://img.shields.io/badge/React-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a><br>    
           <img src="https://img.shields.io/badge/Vue.js-48B883?style=flat-quare&logo=vue.js&logoColor=white"/></a><br>    
-          <img src="https://img.shields.io/badge/Node.js-57A546?style=flat-quare&logo=node.js&logoColor=white"/></a><br>    
         </td>        
         <!--Back End-->
         <td align="center">
@@ -52,6 +51,7 @@
           <img src="https://img.shields.io/badge/laravel-E9392C?style=flat-quare&logo=laravel&logoColor=white"/></a><br>
           <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-quare&logo=MySql&logoColor=white"/></a><br>
           <img src="https://img.shields.io/badge/Mongo DB-12AA52?style=flat-quare&logo=MONGODB&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/Node.js-57A546?style=flat-quare&logo=node.js&logoColor=white"/></a><br>    
         </td>        
         <!--Programming language-->
         <td align="center">
