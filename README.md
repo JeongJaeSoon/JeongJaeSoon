@@ -76,8 +76,8 @@
 - [SYDER](https://github.com/JeongJaeSoon/SYDER)
 - [Your Safe Space](https://github.com/JeongJaeSoon/COVID19_YSS)
 - E-Global-Zone/Center
-  - [MAIN PAGE](https://github.com/JeongJaeSoon/e-global-zone_main)
-  - [WEB & API](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
+  - [Main Page](https://github.com/JeongJaeSoon/e-global-zone_main)
+  - [Web & Api](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
   - [Docker](https://github.com/JeongJaeSoon/e-global-zone_Docker/blob/master/docker-compose.yml)
 - my-riding
   - [React.js(web)](https://github.com/2020-yju-cominfo-5/my-riding-web)
