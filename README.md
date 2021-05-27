@@ -75,7 +75,10 @@
 - [kiminohanawa](https://github.com/JeongJaeSoon/kiminohanawa)
 - [SYDER](https://github.com/JeongJaeSoon/SYDER)
 - [Your Safe Space](https://github.com/JeongJaeSoon/COVID19_YSS)
-- [e-global-zone](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
+- E-Global-Zone/Center
+  - [MAIN PAGE](https://github.com/JeongJaeSoon/e-global-zone_main)
+  - [WEB & API](https://github.com/JeongJaeSoon/e-global-zone_Laravel-project_Project-management)
+  - [Docker](https://github.com/JeongJaeSoon/e-global-zone_Docker/blob/master/docker-compose.yml)
 - my-riding
   - [React.js(web)](https://github.com/2020-yju-cominfo-5/my-riding-web)
   - [Node.js & Mongo DB(server)](https://github.com/JeongJaeSoon/my-riding-data) 
