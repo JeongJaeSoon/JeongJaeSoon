@@ -12,62 +12,36 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   
 </p>
 
-<h3 align="center">Their may be distressing events but no such thing as failure</h3>
-
-<h3 align="center">🇰🇷<h3/>
+<!-- <h3 align="center">Their may be distressing events but no such thing as failure</h3>
+ -->
+ 
+<h3 align="center">🇰🇷 → 🇯🇵<h3/>
 
 <h3 align="center">🛠 My Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
-<table aligun="center">
-    <tr>
-        <th align="center">
-          Front-End
-        </th>
-        <th align="center">
-          Back-End
-        </th>
-        <th align="center">
-          Programming<br>language
-        </th>
-        <th align="center">
-          Applications<br>& Utils
-        </th>
-    </tr>
-    <tr>      
-        <!--Front End-->
-        <td align="center">  
-          <img src="https://img.shields.io/badge/HTML5-E72C22?style=flat-quare&logo=HTML5&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Javascript-F0D91D?style=flat-quare&logo=javascript&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-quare&logo=css3&logoColor=white"/></a><br>     
-          <img src="https://img.shields.io/badge/jQuery-2965A7?style=flat-quare&logo=jQuery&logoColor=white"/></a><br>    
-          <img src="https://img.shields.io/badge/React-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a><br>    
-          <img src="https://img.shields.io/badge/Vue.js-48B883?style=flat-quare&logo=vue.js&logoColor=white"/></a><br>    
-        </td>        
-        <!--Back End-->
-        <td align="center">
-          <img src="https://img.shields.io/badge/php-5C7EB5?style=flat-quare&logo=php&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/laravel-E9392C?style=flat-quare&logo=laravel&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-quare&logo=MySql&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Mongo DB-12AA52?style=flat-quare&logo=MONGODB&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Node.js-57A546?style=flat-quare&logo=node.js&logoColor=white"/></a><br>    
-        </td>        
-        <!--Programming language-->
-        <td align="center">
-          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-quare&logo=Python&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Java-D23C35?style=flat-quare&logo=Java&logoColor=white"/></a><br>   
-        </td>
-        <!--Applications & Utils-->
-        <td align="center">
-          <img src="https://img.shields.io/badge/AWS-333664?style=flat-quare&logo=amazon-aws&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Docker-2C96ED?style=flat-quare&logo=docker&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Nginx-229639?style=flat-quare&logo=NGINX&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Apache-C71D42?style=flat-quare&logo=APACHE&logoColor=white"/></a><br>
-          <img src="https://img.shields.io/badge/Github-000000?style=flat-quare&logo=GITHUB&logoColor=white"/></a><br> 
-        </td>
-    </tr>
-</table>
+<p align="center">
+          <img src="https://img.shields.io/badge/HTML5-E72C22?style=flat-quare&logo=HTML5&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Javascript-F0D91D?style=flat-quare&logo=javascript&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-quare&logo=css3&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/jQuery-2965A7?style=flat-quare&logo=jQuery&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/React-3DD9FF?style=flat-quare&logo=react&logoColor=white"/></a>  
+          <img src="https://img.shields.io/badge/Vue.js-48B883?style=flat-quare&logo=vue.js&logoColor=white"/></a><br>
+          <img src="https://img.shields.io/badge/php-5C7EB5?style=flat-quare&logo=php&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/laravel-E9392C?style=flat-quare&logo=laravel&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-quare&logo=MySql&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Mongo DB-12AA52?style=flat-quare&logo=MONGODB&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Node.js-57A546?style=flat-quare&logo=node.js&logoColor=white"/></a><br>            
+          <img src="https://img.shields.io/badge/AWS-333664?style=flat-quare&logo=amazon-aws&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Docker-2C96ED?style=flat-quare&logo=docker&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Nginx-229639?style=flat-quare&logo=NGINX&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Apache-C71D42?style=flat-quare&logo=APACHE&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Github-000000?style=flat-quare&logo=GITHUB&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Python-3766AB?style=flat-quare&logo=Python&logoColor=white"/></a>
+          <img src="https://img.shields.io/badge/Java-D23C35?style=flat-quare&logo=Java&logoColor=white"/></a>   
+          <br> 
+</p>
 
 <h3 align="center"> 🎓 My Univ Team Project 🎓 </h3>
 
