@@ -17,9 +17,9 @@
  
 <h3 align="center">🇰🇷 → 🇯🇵<h3/>
 
-<h3 align="center">🛠 My Tech Stack 🛠</h3>
-
-<p align="center"> Techs that I've used at least once </p>
+<h3 align="center">🛠 My Skill Stacks 🛠</h3>
+<!-- 
+<p align="center"> Techs that I've used at least once </p> -->
 
 <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E72C22?style=flat-quare&logo=HTML5&logoColor=white"/></a>
@@ -43,7 +43,7 @@
           <br> 
 </p>
 
-<h3 align="center"> 🎓 My Univ Team Project 🎓 </h3>
+<h3 align="center"> 🎓 Team projects in my univ days. 🎓 </h3>
 
 - [Gochi_2019](https://github.com/JeongJaeSoon/Gochi_2019)
 - [kiminohanawa](https://github.com/JeongJaeSoon/kiminohanawa)
@@ -57,6 +57,12 @@
   - [React.js(web)](https://github.com/2020-yju-cominfo-5/my-riding-web)
   - [Node.js & Mongo DB(server)](https://github.com/JeongJaeSoon/my-riding-data) 
 - [my-youtube-music](https://github.com/JeongJaeSoon/my-youtube-music)
+
+<h3 align="center">📖 Skill I've been studying lately 📖</h3>
+
+- [React Native](https://github.com/JeongJaeSoon/React-Native-Study)
+- [DevOps's Basics](https://github.com/JeongJaeSoon/DevOps-study)
+
 
 <h3 align="center">💪🏻  My State 💪🏻</h3>
 
