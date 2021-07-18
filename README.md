@@ -7,9 +7,11 @@
 </a>
 
 <p align="center">
-  <a href="https://qiita.com/JeongJaeSoon"><img src="https://img.shields.io/badge/94soon-dev.log-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/JeongJaeSoon"/></a>&nbsp
-  <a href="mailto:94jaesoon.jeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=94jaesoon.jeong@gmail.com"/></a>  
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   
+<!--   <a href="https://qiita.com/JeongJaeSoon"><img src="https://img.shields.io/badge/94soon-dev.log-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/JeongJaeSoon"/></a>&nbsp -->
+  <a href="mailto:94jaesoon.jeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=94jaesoon.jeong@gmail.com"/></a>&nbsp
+  <a href="https://qiita.com/JeongJaeSoon"><img src="https://img.shields.io/badge/Qiita-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/JeongJaeSoon"/></a>&nbsp
+  <a href="https://www.youtube.com/channel/UCEm1z9Q-_rzdmWZGIxNo_Zg"><img src="https://img.shields.io/badge/YouTube-d14836?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCEm1z9Q-_rzdmWZGIxNo_Zg"/></a>&nbsp
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
 </p>
 
 <!-- <h3 align="center">Their may be distressing events but no such thing as failure</h3>
