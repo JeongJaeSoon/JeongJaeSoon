@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
-  <a href="https://wakatime.com/@JeongJaeSoon"><img src="https://img.shields.io/badge/wakatime-1f9aef?style=flat-square&logo=wakatime&logoColor=white&link=https://wakatime.com/@JeongJaeSoon"/></a>&nbsp
+  <a href="https://wakatime.com/@a9ec6db8-5ed2-44b8-8c20-d69280103581"><img src="https://wakatime.com/badge/user/a9ec6db8-5ed2-44b8-8c20-d69280103581.svg" alt="Total time coded since Jun 22 2020" /></a>
   <a href="mailto:94jaesoon.jeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=94jaesoon.jeong@gmail.com"/></a>&nbsp
  <br/><br/>
   <a href="https://dev-jaesoon.tistory.com/"><img src="https://img.shields.io/badge/tistory blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dev-jaesoon.tistory.com/"/></a>&nbsp
