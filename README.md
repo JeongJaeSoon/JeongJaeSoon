@@ -20,6 +20,7 @@
 -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=JeongJaeSoon&layout=compact&langs_count=20&theme=dark)
 
 <br><br><br>
 
