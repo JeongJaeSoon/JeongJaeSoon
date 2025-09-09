@@ -29,16 +29,11 @@
 ```txt
 From: 10 August 2025 - To: 09 September 2025
 
-Total Time: 59 hrs 28 mins
-
 Markdown     15 hrs 6 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 %
 TypeScript   12 hrs 26 mins  █████░░░░░░░░░░░░░░░░░░░░   20.20 %
 Go           11 hrs 9 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
 YAML         6 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 Python       6 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-JSON         3 hrs 53 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Bash         2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-Other        2 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
