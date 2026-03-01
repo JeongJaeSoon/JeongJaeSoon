@@ -1,48 +1,8 @@
-<div align="center">
-<br><br><br>
+### Hi, I'm JaeSoon 👋
 
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
+Senior AI Platform Engineer | CAIO Office at [@freee](https://github.com/freee)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jeong+JaeSoon.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
-<br><br><br>
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=JeongJaeSoon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJaeSoon&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
-
-<a href="https://github.com/JeongJaeSoon/github-stats">
- <img src="https://raw.githubusercontent.com/JeongJaeSoon/github-stats/output/generated/languages.svg" width=51% />
-</a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JeongJaeSoon&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
--->
-
-![](./profile-3d-contrib/profile-night-green.svg)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=JeongJaeSoon&layout=compact&langs_count=20&theme=dark)
-
-<br><br><br>
-
-<!--START_SECTION:waka-->
-
-```txt
-Other        14 hrs 12 mins  ██████████████░░░░░░░░░░░   56.44 %
-Python       3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Go           2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Markdown     1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-YAML         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-```
-
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJaeSoon&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
-  <a href="https://wakatime.com/@a9ec6db8-5ed2-44b8-8c20-d69280103581"><img src="https://wakatime.com/badge/user/a9ec6db8-5ed2-44b8-8c20-d69280103581.svg" alt="Total time coded since Jun 22 2020" /></a>
-  <a href="mailto:94jaesoon.jeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=94jaesoon.jeong@gmail.com"/></a>&nbsp
- <br/><br/>
-  <a href="https://dev-jaesoon.tistory.com/"><img src="https://img.shields.io/badge/tistory blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://dev-jaesoon.tistory.com/"/></a>&nbsp
-  <a href="https://qiita.com/JeongJaeSoon"><img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/JeongJaeSoon"/></a>&nbsp
-</p>
-
-</div>
+#### Contact
+- [@dev_soon0_0](https://twitter.com/dev_soon0_0)
+- [Threads](https://www.threads.com/@dev_soon.0_0)
+- [LinkedIn](https://www.linkedin.com/in/JeongJaeSoon/)
